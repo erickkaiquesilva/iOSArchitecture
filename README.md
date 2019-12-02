@@ -1,2 +1,2 @@
 # iOSArchitecture
-MVC, MVP, MVVM Architectures Study Repository in iOS Applications
+MVC, MVP, MVVM and VIPER Architectures Study Repository in iOS Applications
